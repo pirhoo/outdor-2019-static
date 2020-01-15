@@ -1,0 +1,8 @@
+-w 2019.outdor.fr -O . s3-eu-west-3.amazonaws.com/* -N100 -I
+File generated automatically on Wed, 15 Jan 2020 23:45:31, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

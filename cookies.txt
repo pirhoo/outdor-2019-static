@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+2019.outdor.fr	TRUE	/	FALSE	1999999999	wfvt_3325564900	5e1f962c62cc2
+
